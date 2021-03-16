@@ -1,0 +1,1 @@
+document.write("big minesweeper energy");
