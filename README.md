@@ -1,0 +1,1 @@
+# Minesweeper idle hours
