@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.row{
+}
+
+#minefield{
+}
+
+.Cell{
+    flex: 1;
+    box-sizing: border-box;
+    width: 32px;
+    height: 32px;
+}
